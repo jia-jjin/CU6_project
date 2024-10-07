@@ -1,15 +1,21 @@
-Link to Canva Slides
+# Thanks for visiting this repo.
+Explanations for each solution can be found in the slides.
+
+## Link to Canva Slides
 https://www.canva.com/design/DAGSPQQT7zY/WmQZHCWOuEVpf4NgNTSvqw/view?utm_content=DAGSPQQT7zY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-23. Merge k Sorted Lists
+
+## Links to LeetCode problems
+
+- 23: Merge k Sorted Lists
 https://leetcode.com/problems/merge-k-sorted-lists/
 
-41. First Missing Positive
+- 41: First Missing Positive
 https://leetcode.com/problems/first-missing-positive/
 
-135. Candy
+- 135: Candy
 https://leetcode.com/problems/candy/
 
-1402. Reducing Dishes
+- 1402: Reducing Dishes
 https://leetcode.com/problems/reducing-dishes/
 
